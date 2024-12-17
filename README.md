@@ -16,6 +16,6 @@ JavaScript: Functionality and interactivity of the calculator.
 ⚙️ How to Run the Project
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/tejaswi-4504/calculator-project.git
+   git clone https://github.com/tejaswi-4504/calculator
    cd calculator-project
 
